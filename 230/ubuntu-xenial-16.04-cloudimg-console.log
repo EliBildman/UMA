@@ -1,0 +1,21 @@
+[89236.028785] NMI watchdog: BUG: soft lockup - CPU#0 stuck for 22s! [kworker/0:2:27722]
+[89242.345587] CPU: 0 PID: 27722 Comm: kworker/0:2 Not tainted 4.4.0-161-generic #189-Ubuntu
+[89242.348108] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[89242.351977] Workqueue: events e1000_watchdog [e1000]
+[89242.353504] task: f3f10000 ti: f6504000 task.ti: f6504000
+[89242.355233] Stack:
+[89242.355942]  f3b80500 f6505ec4 f8443b71 00000282 00000000 3f5a0273 f3b80c2c f3b80000
+[89264.135279]  f3b80500 f6505ef8 f8443c02 c17e91c6 00000001 f3f10000 f455a800 00000000
+[89264.141187]  f3acedc0 f455a800 3f5a0273 f3b80c2c f3d32720 f63a1980 f6505f30 c108d507
+[89264.144546] Call Trace:
+[89264.145080]  [<f8443b71>] e1000_update_stats+0x7e1/0x820 [e1000]
+[89264.146739]  [<f8443c02>] e1000_watchdog+0x52/0x580 [e1000]
+[89264.147910]  [<c17e91c6>] ? __schedule+0x316/0x800
+[89264.149272]  [<c108d507>] process_one_work+0x127/0x440
+[89264.150827]  [<c108d857>] worker_thread+0x37/0x540
+[89264.152320]  [<c10930f6>] kthread+0xb6/0xd0
+[89264.153988]  [<c108d820>] ? process_one_work+0x440/0x440
+[89264.155606]  [<c17e91ba>] ? __schedule+0x30a/0x800
+[89264.157225]  [<c17ed960>] ret_from_kernel_thread+0x38/0x4c
+[89264.159331]  [<c1093040>] ? kthread_create_on_node+0x180/0x180
+[89272.370465] Code: b6 d2 e8 3c 13 87 ff 90 5d c3 89 f6 8d bc 27 00 00 00 00 55 89 e5 53 3e 8d 74 26 00 89 d3 e9 10 00 00 00 f0 80 00 02 89 d8 50 9d <8d> 74 26 00 5b 5d c3 90 ba 02 00 00 00 f0 0f c0 10 f6 c2 01 74

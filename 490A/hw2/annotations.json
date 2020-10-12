@@ -1,0 +1,1252 @@
+[
+  {
+    "n": 0,
+    "sentence": "Titanic  Cameron was very lucky he had a very strong cast of actors.",
+    "label": 3
+  },
+  {
+    "n": 1,
+    "sentence": "Even DiCaprio can't sell \"I'm King of the World.",
+    "label": 3
+  },
+  {
+    "n": 2,
+    "sentence": "The most successful of all of Cannon's 1980s releases!",
+    "label": 3
+  },
+  {
+    "n": 3,
+    "sentence": "Just a heads up, this is going on r/brandnewsentence.",
+    "label": 3
+  },
+  {
+    "n": 4,
+    "sentence": "your laws, look em up.",
+    "label": 3
+  },
+  {
+    "n": 5,
+    "sentence": "You actually only need ONE honors gen ed — the rest you can petition",
+    "label": 2
+  },
+  {
+    "n": 6,
+    "sentence": "Definitely consider daybreakers to be underrated.",
+    "label": 4
+  },
+  {
+    "n": 7,
+    "sentence": "No offense mean to Shang, the love part was what I was directing the stupid at.",
+    "label": 3
+  },
+  {
+    "n": 8,
+    "sentence": "Do you have to tryout for top gun",
+    "label": 2
+  },
+  {
+    "n": 9,
+    "sentence": "I think this might have just been the last nail in the coffin.",
+    "label": 1
+  },
+  {
+    "n": 10,
+    "sentence": "Theaters have been a subpar experience for me for a while now.",
+    "label": 3
+  },
+  {
+    "n": 11,
+    "sentence": "Can't pause, deafening volume settings, sitting through ads, limited food/drink, other people interrupting the movie.",
+    "label": 4
+  },
+  {
+    "n": 12,
+    "sentence": "Idk what’s crazier: the fact there’s a sequel or a plot to it",
+    "label": 1
+  },
+  {
+    "n": 13,
+    "sentence": "laying the bait in the first place is fine though, I guess",
+    "label": 1
+  },
+  {
+    "n": 14,
+    "sentence": "Yes, - my mistake.",
+    "label": 3
+  },
+  {
+    "n": 15,
+    "sentence": "What universities have opened up already?",
+    "label": 3
+  },
+  {
+    "n": 16,
+    "sentence": "I didn’t know about that and the growing cases, that’s really sad to hear.",
+    "label": 1
+  },
+  {
+    "n": 17,
+    "sentence": "I also was wondering the same thing about campus shutting down before the fall.",
+    "label": 1
+  },
+  {
+    "n": 18,
+    "sentence": "If things are even worse by August I imagine that wouldn’t be completely out of the question.",
+    "label": 1
+  },
+  {
+    "n": 19,
+    "sentence": "Hi sorry for delayed response to this.",
+    "label": 1
+  },
+  {
+    "n": 20,
+    "sentence": "However, it does open the avenue to a cool approach you can try out.",
+    "label": 3
+  },
+  {
+    "n": 21,
+    "sentence": "You expect your queries to be pure text.",
+    "label": 2
+  },
+  {
+    "n": 22,
+    "sentence": "That text you need to convert to some form of table querying language.",
+    "label": 2
+  },
+  {
+    "n": 23,
+    "sentence": "The one above makes more sense.",
+    "label": 3
+  },
+  {
+    "n": 24,
+    "sentence": "I just can’t seem to get friends to watch it though.",
+    "label": 1
+  },
+  {
+    "n": 25,
+    "sentence": "They all say it’s too slow.",
+    "label": 3
+  },
+  {
+    "n": 26,
+    "sentence": "Transfer learning *is* a method.",
+    "label": 3
+  },
+  {
+    "n": 27,
+    "sentence": "I’ve been on a Verhoeven binge the last few weeks and finally watched Elle the other day.",
+    "label": 1
+  },
+  {
+    "n": 28,
+    "sentence": "It might be my favorite movie of his, but god damn is it weird and disturbing.",
+    "label": 3
+  },
+  {
+    "n": 29,
+    "sentence": "Also, if you’re in the US, where did you get a digital copy of The Fourth Man?",
+    "label": 2
+  },
+  {
+    "n": 30,
+    "sentence": "I haven’t been able to find any copies of his films prior to his Hollywood year.",
+    "label": 1
+  },
+  {
+    "n": 31,
+    "sentence": "I’m so glad it worked out for you.",
+    "label": 1
+  },
+  {
+    "n": 32,
+    "sentence": "My current major doesn’t assign advisors.",
+    "label": 3
+  },
+  {
+    "n": 33,
+    "sentence": "We just share three all together.",
+    "label": 1
+  },
+  {
+    "n": 34,
+    "sentence": "So I don’t even have to see them all the time.",
+    "label": 1
+  },
+  {
+    "n": 35,
+    "sentence": "That being said, it was shocking to hear them say that... thank you for the thoughtful response and advice!",
+    "label": 3
+  },
+  {
+    "n": 36,
+    "sentence": "Premium VOD for Mulan failed because no one really cared about that film.",
+    "label": 3
+  },
+  {
+    "n": 37,
+    "sentence": "The twist was that it was in a Civil War reenactment park.",
+    "label": 3
+  },
+  {
+    "n": 38,
+    "sentence": "It actually makes the whole thing pointless and nonsensical.",
+    "label": 3
+  },
+  {
+    "n": 39,
+    "sentence": "It is unusual for a whole sentence to be a named entity.",
+    "label": 3
+  },
+  {
+    "n": 40,
+    "sentence": "Can you give us some examples of these long entities?",
+    "label": 2
+  },
+  {
+    "n": 41,
+    "sentence": "UFO doesn't necessarily mean alien spacecraft.",
+    "label": 3
+  },
+  {
+    "n": 42,
+    "sentence": "I love that movie.",
+    "label": 1
+  },
+  {
+    "n": 43,
+    "sentence": "Conflating jewish people with Israel is antisemitic.",
+    "label": 3
+  },
+  {
+    "n": 44,
+    "sentence": "There is a perfectly fine way to promote Palestinian rights and criticize the nation of Israel.",
+    "label": 3
+  },
+  {
+    "n": 45,
+    "sentence": "Targeting the jewish community on campus who have nothing to do with Israel is disgusting.",
+    "label": 3
+  },
+  {
+    "n": 46,
+    "sentence": "60fps looks awful for movies.",
+    "label": 3
+  },
+  {
+    "n": 47,
+    "sentence": "Locke with Tom Hardy if I remember right....I also seem to remember The Shallows, somebody correct if I'm wrong",
+    "label": 1
+  },
+  {
+    "n": 48,
+    "sentence": "That might be by design.",
+    "label": 3
+  },
+  {
+    "n": 49,
+    "sentence": "I believe Neil Armstrong was a very detached and stoic person in real life as well",
+    "label": 1
+  },
+  {
+    "n": 50,
+    "sentence": "A great movie that I could never watch again.",
+    "label": 3
+  },
+  {
+    "n": 51,
+    "sentence": "The events and characters strike very close to home for me.",
+    "label": 3
+  },
+  {
+    "n": 52,
+    "sentence": "He acted his ass off on it.",
+    "label": 3
+  },
+  {
+    "n": 53,
+    "sentence": "yeah, your idea is good, but what if we have a dino-tyrant?",
+    "label": 2
+  },
+  {
+    "n": 54,
+    "sentence": "or... you know, instead of people we can have some reptilian-shrooms goombas... and some other dinosaurs?",
+    "label": 1
+  },
+  {
+    "n": 55,
+    "sentence": "and maybe some mad-max vibe!",
+    "label": 4
+  },
+  {
+    "n": 56,
+    "sentence": "I have that sad song in my head from Alan Silvesti score.",
+    "label": 1
+  },
+  {
+    "n": 57,
+    "sentence": "And what is the Isenberg fee?",
+    "label": 3
+  },
+  {
+    "n": 58,
+    "sentence": "> Sounds like an early incarnation of r/Raimimemes.",
+    "label": 3
+  },
+  {
+    "n": 59,
+    "sentence": "Which is a beautiful thing.",
+    "label": 3
+  },
+  {
+    "n": 60,
+    "sentence": "How right you are.",
+    "label": 2
+  },
+  {
+    "n": 61,
+    "sentence": "It appears it's going to be a combo, but the exact balance remains up in the air.",
+    "label": 3
+  },
+  {
+    "n": 62,
+    "sentence": "I love Barry Lyndon!",
+    "label": 1
+  },
+  {
+    "n": 63,
+    "sentence": "Such a great film!",
+    "label": 3
+  },
+  {
+    "n": 64,
+    "sentence": "How big is the dataset?",
+    "label": 3
+  },
+  {
+    "n": 65,
+    "sentence": "If you can perform transfer learning then use Longformer.",
+    "label": 2
+  },
+  {
+    "n": 66,
+    "sentence": "Maybe you could use AllenNLP's Elmo model for that.",
+    "label": 2
+  },
+  {
+    "n": 67,
+    "sentence": "Also it may be helpful to check the medical document classification blog:  [[link]",
+    "label": 3
+  },
+  {
+    "n": 68,
+    "sentence": "I didn't think it cost that much.",
+    "label": 1
+  },
+  {
+    "n": 69,
+    "sentence": "If so it's definitely not worth 2k.",
+    "label": 3
+  },
+  {
+    "n": 70,
+    "sentence": "He was also great in Escape at Dannemora",
+    "label": 3
+  },
+  {
+    "n": 71,
+    "sentence": "hyperbole/hʌɪˈpəːbəli/*noun*  1. exaggerated statements or claims not meant to be taken literally.",
+    "label": 3
+  },
+  {
+    "n": 72,
+    "sentence": "No, they do not count as honors gen ed’s",
+    "label": 3
+  },
+  {
+    "n": 73,
+    "sentence": "Yeah I’m a cs major but I heard not to base your first year dorm choice on your major",
+    "label": 1
+  },
+  {
+    "n": 74,
+    "sentence": "Ever heard of Bloodshot?",
+    "label": 2
+  },
+  {
+    "n": 75,
+    "sentence": "Love Jake, but Antoine Fuqua makes the most generic movies in all of Hollywood imo.",
+    "label": 3
+  },
+  {
+    "n": 76,
+    "sentence": "Wish Jake  would lose this guy's number.",
+    "label": 1
+  },
+  {
+    "n": 77,
+    "sentence": "Their time is so much better spent elsewhere.",
+    "label": 3
+  },
+  {
+    "n": 78,
+    "sentence": "Karen enters the room:",
+    "label": 3
+  },
+  {
+    "n": 79,
+    "sentence": "Not a movie but I envy anyone who gets to watch Dark on Netflix for the first time.",
+    "label": 1
+  },
+  {
+    "n": 80,
+    "sentence": "I've not explored tfidfvectorizer.",
+    "label": 1
+  },
+  {
+    "n": 81,
+    "sentence": "Would that give me the 'center' of the cluster?",
+    "label": 3
+  },
+  {
+    "n": 82,
+    "sentence": "Or am I  missing something here?",
+    "label": 1
+  },
+  {
+    "n": 83,
+    "sentence": "My only concern would be inaccurate representation of ones culture.",
+    "label": 1
+  },
+  {
+    "n": 84,
+    "sentence": "Doesn’t she drive Billy to suicide by publicly shaming him and threatening him as a proxy for McMurphy?",
+    "label": 3
+  },
+  {
+    "n": 85,
+    "sentence": "She does this as punishment for McMurphy’s growing influence over them.",
+    "label": 3
+  },
+  {
+    "n": 86,
+    "sentence": "Ahaha no biggie,hope you can find it.",
+    "label": 1
+  },
+  {
+    "n": 87,
+    "sentence": "Dumb and Dumber, Shrek",
+    "label": 4
+  },
+  {
+    "n": 88,
+    "sentence": "Pick up a minor or other major and start working on that!",
+    "label": 2
+  },
+  {
+    "n": 89,
+    "sentence": "Otherwise you'll be filling in lots of space with just classes for credit every semester.",
+    "label": 2
+  },
+  {
+    "n": 90,
+    "sentence": "I always think of \"Holding Out For a Hero\" as equal parts Footloose and Short Circuit 2",
+    "label": 1
+  },
+  {
+    "n": 91,
+    "sentence": "85% on RT and 7/10 on IMDb, I'd say that's quite highly rated.",
+    "label": 1
+  },
+  {
+    "n": 92,
+    "sentence": ">  Judging by the votes, a few others do agree.",
+    "label": 3
+  },
+  {
+    "n": 93,
+    "sentence": "You can't judge something like that from upvotes.",
+    "label": 2
+  },
+  {
+    "n": 94,
+    "sentence": "Lots of people vote on comments and almost none of them have read the book.",
+    "label": 3
+  },
+  {
+    "n": 95,
+    "sentence": "They upvote because you were providing information.",
+    "label": 3
+  },
+  {
+    "n": 96,
+    "sentence": "But the 1992 movie might still be closest simply because close adaptations don't exist.",
+    "label": 3
+  },
+  {
+    "n": 97,
+    "sentence": "An excellent book, but the ending REALLY blows hahaha!",
+    "label": 3
+  },
+  {
+    "n": 98,
+    "sentence": "Excited for this regardless",
+    "label": 1
+  },
+  {
+    "n": 99,
+    "sentence": "I've read this, and its bollocks.",
+    "label": 1
+  },
+  {
+    "n": 100,
+    "sentence": "Do you really think anyone was in a position to tell Nolan \"no\" on the set of *Inception*?",
+    "label": 2
+  },
+  {
+    "n": 101,
+    "sentence": "Do you think anyone told Lucas \"no\" on the set of *Star Wars?",
+    "label": 2
+  },
+  {
+    "n": 102,
+    "sentence": "What about David Lean in *Lawrence of Arabia*?",
+    "label": 3
+  },
+  {
+    "n": 103,
+    "sentence": "Guess what: on any normal filmset, if you're at loggerheads with the director, you  get fired.",
+    "label": 2
+  },
+  {
+    "n": 104,
+    "sentence": "Tenet isn't even that bad.",
+    "label": 3
+  },
+  {
+    "n": 105,
+    "sentence": "Its just a little lacking in humanity.",
+    "label": 3
+  },
+  {
+    "n": 106,
+    "sentence": "So was *Inception,* and yet it was fun.",
+    "label": 3
+  },
+  {
+    "n": 107,
+    "sentence": "I’m loving the Lakeith Stanfield posts the past few days.",
+    "label": 1
+  },
+  {
+    "n": 108,
+    "sentence": "Are you a crunchy vegan?",
+    "label": 2
+  },
+  {
+    "n": 109,
+    "sentence": "If yes you will be fine.",
+    "label": 2
+  },
+  {
+    "n": 110,
+    "sentence": "Such a great movie and shows reality that is ignored for most entertainment.",
+    "label": 3
+  },
+  {
+    "n": 111,
+    "sentence": "There are many people that live in these discounted hotels/motels that probably inspired the movie.",
+    "label": 3
+  },
+  {
+    "n": 112,
+    "sentence": "The teachers that teach them are some special, wonderful kind of humanity.",
+    "label": 3
+  },
+  {
+    "n": 113,
+    "sentence": "There are good people everywhere and they rarely get focus.",
+    "label": 3
+  },
+  {
+    "n": 114,
+    "sentence": ">remakes of good movies aren't hits   Huh ?",
+    "label": 3
+  },
+  {
+    "n": 115,
+    "sentence": "It's not the biggest deal, but it still hurts.",
+    "label": 3
+  },
+  {
+    "n": 116,
+    "sentence": "Like a splinter in the skin.",
+    "label": 3
+  },
+  {
+    "n": 117,
+    "sentence": "I just want to give my kid what other kids routinely receive.",
+    "label": 1
+  },
+  {
+    "n": 118,
+    "sentence": "I read geralds game and it definitely made my skin crawl, I'll have to check out the movie .",
+    "label": 1
+  },
+  {
+    "n": 119,
+    "sentence": "You could say there was Something in the Way of the project?",
+    "label": 2
+  },
+  {
+    "n": 120,
+    "sentence": "Goodbye Horses   [link]",
+    "label": 4
+  },
+  {
+    "n": 121,
+    "sentence": "I always think of him as hook.",
+    "label": 1
+  },
+  {
+    "n": 122,
+    "sentence": "Yeah turns out he’s aged since then.",
+    "label": 3
+  },
+  {
+    "n": 123,
+    "sentence": "1 is good, 3 is mostly good  but 2 was average.",
+    "label": 3
+  },
+  {
+    "n": 124,
+    "sentence": "Jokes on them I use a free ad blocker",
+    "label": 1
+  },
+  {
+    "n": 125,
+    "sentence": "I was in the same boat as you.",
+    "label": 1
+  },
+  {
+    "n": 126,
+    "sentence": "Finished watching the movie and was instantly compelled to talk about it with anyone and everyone.",
+    "label": 1
+  },
+  {
+    "n": 127,
+    "sentence": "We got the Guillotine!",
+    "label": 1
+  },
+  {
+    "n": 128,
+    "sentence": "Whenever I tried to question the story, people were quick to shut me down and make me look insensitive.",
+    "label": 1
+  },
+  {
+    "n": 129,
+    "sentence": "I didn’t want to seem like an asshole who was careless toward sexual abuse survivors.",
+    "label": 1
+  },
+  {
+    "n": 130,
+    "sentence": "And I say this as a gay guy myself.",
+    "label": 1
+  },
+  {
+    "n": 131,
+    "sentence": "And for all that, I’m no longer going to be a part of the UMass Democrats.",
+    "label": 1
+  },
+  {
+    "n": 132,
+    "sentence": "Edit: Added some updates.",
+    "label": 1
+  },
+  {
+    "n": 133,
+    "sentence": "Also, thanks for the support, but I really wouldn’t give gold to a throwaway account’s posts, lmao.",
+    "label": 1
+  },
+  {
+    "n": 134,
+    "sentence": "I’m not a probabilistic graphical model expert so LDA theory flew over my head.",
+    "label": 1
+  },
+  {
+    "n": 135,
+    "sentence": "And even when I tried to use, there’s a lot of corpus “tuning”  required.",
+    "label": 3
+  },
+  {
+    "n": 136,
+    "sentence": "In the abstract, the authors acknowledge that any BoW design was subject to such tuning.",
+    "label": 3
+  },
+  {
+    "n": 137,
+    "sentence": "Sequence-sensitive, vector embedding sounds much more promising.",
+    "label": 3
+  },
+  {
+    "n": 138,
+    "sentence": "So maybe this design is destined to fail anyway...",
+    "label": 3
+  },
+  {
+    "n": 139,
+    "sentence": "Shaming Billy into killing himself isn’t bad enough?",
+    "label": 3
+  },
+  {
+    "n": 140,
+    "sentence": "That was motivated by pure malice.",
+    "label": 3
+  },
+  {
+    "n": 141,
+    "sentence": "She was humiliated and lashed out at the weakest person there so she could feel powerful.",
+    "label": 3
+  },
+  {
+    "n": 142,
+    "sentence": "That’s pretty villainous IMO.",
+    "label": 3
+  },
+  {
+    "n": 143,
+    "sentence": "It was produced by Coppola as a follow up to his Frankenstein.",
+    "label": 3
+  },
+  {
+    "n": 144,
+    "sentence": "I guess Branagh was going for that sort of tone.",
+    "label": 1
+  },
+  {
+    "n": 145,
+    "sentence": "I don't think this is a language technology question.",
+    "label": 1
+  },
+  {
+    "n": 146,
+    "sentence": "No it hadn't, that comment was after mine.",
+    "label": 3
+  },
+  {
+    "n": 147,
+    "sentence": "You're right, let me delete the thread",
+    "label": 1
+  },
+  {
+    "n": 148,
+    "sentence": "I think he's talking about just throwing more data into huge black box models with more parameters.",
+    "label": 1
+  },
+  {
+    "n": 149,
+    "sentence": "I kind of do agree that's not a good direction for the field.",
+    "label": 1
+  },
+  {
+    "n": 150,
+    "sentence": "Really  wanted to love it.",
+    "label": 1
+  },
+  {
+    "n": 151,
+    "sentence": "I wish I’d had your reaction.",
+    "label": 1
+  },
+  {
+    "n": 152,
+    "sentence": "And had that been fixed, still not sure I would’ve made sense of it all",
+    "label": 1
+  },
+  {
+    "n": 153,
+    "sentence": "Hes too obsessed with his agenda to make a great movie.",
+    "label": 3
+  },
+  {
+    "n": 154,
+    "sentence": "Hes forcing it too much",
+    "label": 3
+  },
+  {
+    "n": 155,
+    "sentence": "And while we’re at it, stop putting ads on trailers.",
+    "label": 2
+  },
+  {
+    "n": 156,
+    "sentence": "Ads on ads is annoying.",
+    "label": 3
+  },
+  {
+    "n": 157,
+    "sentence": "I don’t think it’s possible for a tool like this to work on any language.",
+    "label": 1
+  },
+  {
+    "n": 158,
+    "sentence": "A lot of the things you mentioned are language specific",
+    "label": 3
+  },
+  {
+    "n": 159,
+    "sentence": "No one  believed that.",
+    "label": 3
+  },
+  {
+    "n": 160,
+    "sentence": "What are you talking about?",
+    "label": 2
+  },
+  {
+    "n": 161,
+    "sentence": "Maybe the American education system should start allowing teachers to teach for learning, rather than teach for testing.",
+    "label": 3
+  },
+  {
+    "n": 162,
+    "sentence": "Saw the cast pic, that's just an unflattering one I guess.",
+    "label": 3
+  },
+  {
+    "n": 163,
+    "sentence": "Thanks, that was a great summary and explanation!",
+    "label": 3
+  },
+  {
+    "n": 164,
+    "sentence": "Just make the cowl a full mask like Batman Beyond and your good to go.",
+    "label": 2
+  },
+  {
+    "n": 165,
+    "sentence": "man you are a motivation.",
+    "label": 2
+  },
+  {
+    "n": 166,
+    "sentence": "TL;DR: Don't read the TL;DR. Read the document.",
+    "label": 4
+  },
+  {
+    "n": 167,
+    "sentence": "Make this decision carefully.",
+    "label": 2
+  },
+  {
+    "n": 168,
+    "sentence": "Yes my gene collection is coming along very well",
+    "label": 3
+  },
+  {
+    "n": 169,
+    "sentence": "There was also a musical.",
+    "label": 3
+  },
+  {
+    "n": 170,
+    "sentence": "If there is any spoken dialog in this movie at all I will not watch it.",
+    "label": 1
+  },
+  {
+    "n": 171,
+    "sentence": "The media today is so far past Network’s commentaries and criticisms, it feels pretty basic.",
+    "label": 3
+  },
+  {
+    "n": 172,
+    "sentence": "He was amazing in this movie, what other movies that he's been in do you recommend?",
+    "label": 2
+  },
+  {
+    "n": 173,
+    "sentence": "You're reading Miranda to a corpse!",
+    "label": 2
+  },
+  {
+    "n": 174,
+    "sentence": "I wish the director brothers would make more cool sci-fi movies.",
+    "label": 1
+  },
+  {
+    "n": 175,
+    "sentence": "Looks boring who's the babe?",
+    "label": 3
+  },
+  {
+    "n": 176,
+    "sentence": "Why does the GPT-2 doesn't overfit, even though it's trained on these huge parameters?",
+    "label": 3
+  },
+  {
+    "n": 177,
+    "sentence": "P.S: Please excuse me if the question isn't related to the post",
+    "label": 1
+  },
+  {
+    "n": 178,
+    "sentence": "the twinpeaks badge in the youtube thumbnail + Robert forster  almost thought this was some new twinpeaks stuff",
+    "label": 1
+  },
+  {
+    "n": 179,
+    "sentence": "When I saw the title of this post  I thought \"Wait a minute, that sounds familiar!",
+    "label": 1
+  },
+  {
+    "n": 180,
+    "sentence": "This doesn't answer the question.",
+    "label": 3
+  },
+  {
+    "n": 181,
+    "sentence": "Did you elect pass fail and then revoke it?",
+    "label": 2
+  },
+  {
+    "n": 182,
+    "sentence": "I would email the professor and CC your advisor",
+    "label": 1
+  },
+  {
+    "n": 183,
+    "sentence": "My one guilty pleasure movie",
+    "label": 3
+  },
+  {
+    "n": 184,
+    "sentence": "i mean he's not but he was really good and always is.",
+    "label": 3
+  },
+  {
+    "n": 185,
+    "sentence": "you don't beat ddl.",
+    "label": 2
+  },
+  {
+    "n": 186,
+    "sentence": "it just doesn't happen.",
+    "label": 3
+  },
+  {
+    "n": 187,
+    "sentence": "The Favourite was my pick, and I think it would have really deserved it.",
+    "label": 3
+  },
+  {
+    "n": 188,
+    "sentence": "Is this the one with Billy Crudup?",
+    "label": 3
+  },
+  {
+    "n": 189,
+    "sentence": "Which room in Morrill was it?",
+    "label": 3
+  },
+  {
+    "n": 190,
+    "sentence": "God I hope they release it as planned.",
+    "label": 1
+  },
+  {
+    "n": 191,
+    "sentence": "Tin Man may not be close to the source material, but I still loved it.",
+    "label": 1
+  },
+  {
+    "n": 192,
+    "sentence": "So I would give very different advice.",
+    "label": 1
+  },
+  {
+    "n": 193,
+    "sentence": "chegg lets you upload questions and have others answer them though",
+    "label": 3
+  },
+  {
+    "n": 194,
+    "sentence": "This explained it for me.",
+    "label": 3
+  },
+  {
+    "n": 195,
+    "sentence": "I had to look at the Transformer one also.",
+    "label": 1
+  },
+  {
+    "n": 196,
+    "sentence": "And yes, it has starting weights that are very deep and complex.",
+    "label": 3
+  },
+  {
+    "n": 197,
+    "sentence": "I don't know, I like Nolan's movies but this one fell flat for me",
+    "label": 1
+  },
+  {
+    "n": 198,
+    "sentence": "This means that a lot of RAs will be needed.",
+    "label": 3
+  },
+  {
+    "n": 199,
+    "sentence": "You sir, are a raging psychopath.",
+    "label": 2
+  },
+  {
+    "n": 200,
+    "sentence": "Movies are funded by borrowed money, believe it or not.",
+    "label": 3
+  },
+  {
+    "n": 201,
+    "sentence": "As rich as Disney, WB, Paramount, Universal are, they take out \"loans\" and have to pay it back.",
+    "label": 3
+  },
+  {
+    "n": 202,
+    "sentence": "So that is why you see so many sequels.",
+    "label": 3
+  },
+  {
+    "n": 203,
+    "sentence": "Studios do NOT want to fail and lose money.",
+    "label": 3
+  },
+  {
+    "n": 204,
+    "sentence": "As for remaking flawed/bad movies, I don't mind it myself.",
+    "label": 1
+  },
+  {
+    "n": 205,
+    "sentence": "But at the end of the day the studios want to make money.",
+    "label": 3
+  },
+  {
+    "n": 206,
+    "sentence": "Batman and Marvel, SW and even Young Adult films have built-in audiences.",
+    "label": 3
+  },
+  {
+    "n": 207,
+    "sentence": "Many will show up just by you mentioning the name.",
+    "label": 3
+  },
+  {
+    "n": 208,
+    "sentence": "The remake better score ridiculously high .",
+    "label": 3
+  },
+  {
+    "n": 209,
+    "sentence": "Deeplearning.ai is running an NLP specialization and they use slack as a primary communication tool.",
+    "label": 3
+  },
+  {
+    "n": 210,
+    "sentence": "You might have enrol to audit the course to find access to their slack workspace.",
+    "label": 2
+  },
+  {
+    "n": 211,
+    "sentence": "Wouldn’t recommend the specialization though at least not the first two courses...",
+    "label": 1
+  },
+  {
+    "n": 212,
+    "sentence": "Don't take the Art History classes.",
+    "label": 4
+  },
+  {
+    "n": 213,
+    "sentence": "Save yourself the headache.",
+    "label": 2
+  },
+  {
+    "n": 214,
+    "sentence": "His films only played in art house cinemas .",
+    "label": 3
+  },
+  {
+    "n": 215,
+    "sentence": "This is what I meant.",
+    "label": 3
+  },
+  {
+    "n": 216,
+    "sentence": "It was a calculated break for him with the help of Fox rather than his masterpiece.",
+    "label": 3
+  },
+  {
+    "n": 217,
+    "sentence": "“I am always cautious with art and story telling.",
+    "label": 1
+  },
+  {
+    "n": 218,
+    "sentence": "We shouldn't look at authors or story tellers as all knowing gods revealing some eternal truths about something.",
+    "label": 1
+  },
+  {
+    "n": 219,
+    "sentence": "Just that as a director until The Favourite, he had a consistent vision of the world.",
+    "label": 3
+  },
+  {
+    "n": 220,
+    "sentence": "As art rather than any moral superiority!",
+    "label": 4
+  },
+  {
+    "n": 221,
+    "sentence": "From Dogtooth to Sacred Deer, he made his actors perform in a very wooden, almost autistic manner.",
+    "label": 3
+  },
+  {
+    "n": 222,
+    "sentence": "But more than anything, just dark humour: how stupid was Agamemnon to do that?",
+    "label": 3
+  },
+  {
+    "n": 223,
+    "sentence": "Not saying it’s the most depth in the world, nor stories to learn anything from.",
+    "label": 1
+  },
+  {
+    "n": 224,
+    "sentence": "I was surprised how off I’d been about the reaction it would have, honestly.",
+    "label": 1
+  },
+  {
+    "n": 225,
+    "sentence": "I’ve watched it again since then but it still just is his least interesting work for me.",
+    "label": 1
+  },
+  {
+    "n": 226,
+    "sentence": "Always looking forward to both directors and glad they get the recognition regardless of what for, though!",
+    "label": 1
+  },
+  {
+    "n": 227,
+    "sentence": "They both should be able to finance whatever they want.",
+    "label": 3
+  },
+  {
+    "n": 228,
+    "sentence": "Edit: not sure why my comment is irrelevant to the topic unless I’m being downvoted for some other reason?",
+    "label": 1
+  },
+  {
+    "n": 229,
+    "sentence": "You think TROS can be taken more seriously than the prequels?",
+    "label": 2
+  },
+  {
+    "n": 230,
+    "sentence": "You're being downvoted by people who never read and then watched Eragon.",
+    "label": 2
+  },
+  {
+    "n": 231,
+    "sentence": "For some reason I just enjoy sharing the last day of school with these 70s kids.",
+    "label": 1
+  },
+  {
+    "n": 232,
+    "sentence": "Ah well there you go, just a coincidence in this case",
+    "label": 3
+  },
+  {
+    "n": 233,
+    "sentence": "The one you go to",
+    "label": 4
+  },
+  {
+    "n": 234,
+    "sentence": "I've only seen the original French sub, so I am not sure how good the English language dub is.",
+    "label": 1
+  },
+  {
+    "n": 235,
+    "sentence": "This would be cool.",
+    "label": 3
+  },
+  {
+    "n": 236,
+    "sentence": "Holmwood: Jason Schwartzman  Quincey: Owen Wilson  Seward: Adrian Brody  Van Helsing: Bruce Willis",
+    "label": 4
+  },
+  {
+    "n": 237,
+    "sentence": "No dvd's, but vhs tapes.",
+    "label": 4
+  },
+  {
+    "n": 238,
+    "sentence": "Starring, among other Jake Black & Sigourney Weaver",
+    "label": 3
+  },
+  {
+    "n": 239,
+    "sentence": "I am applying this year too but only in Germany.",
+    "label": 1
+  },
+  {
+    "n": 240,
+    "sentence": "And even though i have gathered info on several universities with language program.",
+    "label": 1
+  },
+  {
+    "n": 241,
+    "sentence": "but still, I didn't know about tcd.",
+    "label": 1
+  },
+  {
+    "n": 242,
+    "sentence": "In case you don't find someone with the knowledge of these universities programs then just asses the quality yourself.",
+    "label": 2
+  },
+  {
+    "n": 243,
+    "sentence": "Look at the courses in their catalog .",
+    "label": 2
+  },
+  {
+    "n": 244,
+    "sentence": "Look at the companies in the city .",
+    "label": 2
+  },
+  {
+    "n": 245,
+    "sentence": "And check the faculty",
+    "label": 2
+  },
+  {
+    "n": 246,
+    "sentence": "My opinion: Tenet was too cerebral to release in a theater now.",
+    "label": 3
+  },
+  {
+    "n": 247,
+    "sentence": "Hollywood should've aimed for the lowest common denominator.",
+    "label": 3
+  },
+  {
+    "n": 248,
+    "sentence": "The 'knuckle dragger' crowd.",
+    "label": 4
+  },
+  {
+    "n": 249,
+    "sentence": "Something like Fast & Furious.",
+    "label": 4
+  }
+]

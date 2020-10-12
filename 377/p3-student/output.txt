@@ -1,0 +1,20 @@
+Producer #1, time = 1583367231, producing data item #1, item value = 0
+Producer #2, time = 1583367231, producing data item #2, item value = 0
+Producer #3, time = 1583367231, producing data item #3, item value = 0
+Producer #4, time = 1583367231, producing data item #4, item value = 0
+Consumer #0, time = 1583367231, comsuming data item with value = 0
+Producer #0, time = 1583367231, producing data item #5, item value = 0
+Consumer #0, time = 1583367231, comsuming data item with value = 0
+Consumer #0, time = 1583367231, comsuming data item with value = 0
+Consumer #0, time = 1583367231, comsuming data item with value = 0
+Consumer #0, time = 1583367231, comsuming data item with value = 0
+Producer #4, time = 1583367232, producing data item #6, item value = 0
+Producer #3, time = 1583367232, producing data item #7, item value = 0
+Producer #2, time = 1583367232, producing data item #8, item value = 0
+Producer #1, time = 1583367232, producing data item #9, item value = 0
+Consumer #0, time = 1583367232, comsuming data item with value = 0
+Consumer #0, time = 1583367232, comsuming data item with value = 0
+Consumer #0, time = 1583367232, comsuming data item with value = 0
+Producer #0, time = 1583367232, producing data item #10, item value = 0
+Consumer #0, time = 1583367232, comsuming data item with value = 0
+Consumer #0, time = 1583367232, comsuming data item with value = 0

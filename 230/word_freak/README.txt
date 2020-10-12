@@ -1,0 +1,3 @@
+VIDEO DEMONSTRATION: https://youtu.be/RuPxgHdICo8
+
+My implementation relies mostly on a linked list of 'Word' structs. The 'Word' struct, as defined in words.h, has a character list that holds the actual word, has an integer that counts the frequency, and a pointer to the next word in the list. This list is created in freaker.c, which goes through a file (in memory or stdin) and tokenizes the text based on a list of 'word-breaking' characters. Then I use the WRITE command to write the tokens to stdout, with some formatting.

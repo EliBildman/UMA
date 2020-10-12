@@ -1,0 +1,31 @@
+{
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "tsh",
+                "type": "cppdbg",
+                "request": "launch",
+                "program": "${workspaceRoot}/tsh",
+                "args": [],
+                "stopAtEntry": true,
+                "cwd": "${workspaceRoot}",
+                "environment": [],
+                "externalConsole": false,
+                "MIMode": "lldb",
+                "preLaunchTask": "make"
+            },
+            {
+                "name": "scheduling",
+                "type": "cppdbg",
+                "request": "launch",
+                "program": "${workspaceRoot}/scheduling",
+                "args": ["rr", "workloads/workload_01.txt"],
+                "stopAtEntry": true,
+                "cwd": "${workspaceRoot}",
+                "environment": [],
+                "externalConsole": false,
+                "MIMode": "lldb",
+                "preLaunchTask": "make"
+            }
+        ]
+    }

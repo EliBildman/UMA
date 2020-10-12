@@ -1,0 +1,37 @@
+[34246.414827] invalid opcode: 0000 [#1] SMP 
+[34246.418633] Modules linked in: vboxsf isofs crc32_pclmul input_leds serio_raw vboxguest video ib_iser rdma_cm iw_cm ib_cm ib_sa ib_mad ib_core ib_addr iscsi_tcp libiscsi_tcp libiscsi scsi_transport_iscsi autofs4 btrfs raid10 raid456 async_raid6_recov async_memcpy async_pq async_xor async_tx xor raid6_pq libcrc32c raid1 raid0 multipath linear aesni_intel xts aes_i586 mptspi lrw scsi_transport_spi gf128mul mptscsih ablk_helper cryptd mptbase psmouse e1000
+[34246.428177] CPU: 1 PID: 0 Comm: swapper/1 Not tainted 4.4.0-161-generic #189-Ubuntu
+[34246.430780] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[34246.433128] task: f5e0e400 ti: f5e2e000 task.ti: f5e2e000
+[34246.434693] EIP: 0060:[<c14edf31>] EFLAGS: 00210096 CPU: 1
+[34246.436280] EIP is at add_interrupt_randomness+0x121/0x1c0
+[34246.437959] EAX: c1b89280 EBX: f63b0e94 ECX: 0000001c EDX: f63b0ea4
+[34246.439721] ESI: c1b89280 EDI: c1b892a4 EBP: f5e4bf90 ESP: f5e4bf74
+[34246.441629]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS: 0068
+[34246.443165] CR0: 80050033 CR2: b712f000 CR3: 33ba0720 CR4: 000406f0
+[34246.444865] Stack:
+[34246.445451]  00818ba9 00006071 f3b1f720 879f7356 f3b1f6c0 f3b1f720 00000000 f5e4bfd0
+[34246.447794]  c10d0d03 f3b1f730 f3b1f6c0 00200082 f6c72560 00200082 f3b1f6c0 c1bd39b0
+[34246.450441]  00000080 00000001 00000001 00000013 f3b1f6c0 f3b1f720 f3b1f720 f5e4bfe4
+[34246.453197] Call Trace:
+[34246.454385]  [<c10d0d03>] handle_irq_event_percpu+0x153/0x1e0
+[34246.459806]  [<c10d0dbe>] handle_irq_event+0x2e/0x50
+[34246.461870]  [<c10d3bde>] handle_fasteoi_irq+0x7e/0x150
+[34246.465454]  [<c10d3b60>] ? handle_simple_irq+0x80/0x80
+[34246.469991]  [<c102c9b8>] handle_irq+0x98/0xb0
+[34246.471843]  <IRQ> 
+[34246.472860]  [<c17eed14>] do_IRQ+0x44/0xe0
+[34246.475344]  [<c17ee173>] common_interrupt+0x33/0x38
+[34246.477752]  [<c10343b0>] ? speculation_ctrl_update_tif+0x80/0x80
+[34246.480976]  [<c105f2a1>] ? native_safe_halt+0x11/0x20
+[34246.483585]  [<c10343cc>] default_idle+0x1c/0xe0
+[34246.486296]  [<c10351c2>] arch_cpu_idle+0x12/0x20
+[34246.488683]  [<c10b68a8>] default_idle_call+0x28/0x40
+[34246.491653]  [<c10b6c1e>] cpu_startup_entry+0x2ee/0x340
+[34246.494294]  [<c104e83f>] start_secondary+0x16f/0x1b0
+[34246.496675] Code: 92 b8 c1 89 4d e4 0f 45 f0 8d 7e 24 89 f8 e8 a7 f1 2f 00 85 c0 8b 4d e4 74 bc 89 4b 10 89 da b9 10 00 00 00 89 f0 e8 df f0 ff ff <0f> c7 f8 0f 92 c1 84 c9 89 45 ec ba 01 00 00 00 74 14 8d 55 ec
+[34246.511996] EIP: [<c14edf31>] add_interrupt_randomness+0x121/0x1c0 SS:ESP 0068:f5e4bf74
+[34246.518863] ---[ end trace dbbac9bea48e5417 ]---
+[34246.524341] Kernel panic - not syncing: Fatal exception in interrupt
+[34246.529313] Kernel Offset: disabled
+[34246.531287] ---[ end Kernel panic - not syncing: Fatal exception in interrupt

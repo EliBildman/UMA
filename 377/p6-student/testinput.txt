@@ -1,0 +1,4 @@
+disk0
+C xd 1
+W xd 0
+R xd 0

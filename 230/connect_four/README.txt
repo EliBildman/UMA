@@ -1,0 +1,3 @@
+My connect four implementation uses a 2d array to represent the gameboard, and a series of logical functions to tell the game state. The main game loop is run in the runGame function. On every player turn, the user is prompted for where they want to place their peice, A-G. When they move, the place they move is checked to see if the game is over. When the AI plays, it looks for the longest contiguous set of pieces, player's or its own, and adds to it. This way it looks to win if it can, and looks to block if it has to. The same check is done here for game completion. Moves are saves in a char array and the index of this array is compared with the first player to see who won when the loop exits.
+
+Video link: https://www.youtube.com/watch?v=vAxxMhHoxwI&feature=youtu.be

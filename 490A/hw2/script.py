@@ -34,8 +34,8 @@ def total_counts(bags):
                 c[word] = bag[word]
     return c
 
-# annos = read_all_annotations('annotations.json')
-# totals = total_counts(list(anno['bag'] for anno in annos))
+annos = read_all_annotations('annotations.json')
+totals = total_counts(list(anno['bag'] for anno in annos))
 
-# print(totals['vod'])
+print(totals['vod'])
 

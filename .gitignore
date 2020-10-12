@@ -1,6 +1,7 @@
+
 **/xv6-public
 **/.vagrant
 **/230Test
 **/large_movie_review_dataset
 490A/final_project/profiles.csv
-
+.DS_Store

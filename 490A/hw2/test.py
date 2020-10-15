@@ -1,4 +1,4 @@
 from collections import Counter
 
-c = Counter([1, 2, 3, 1, 1, 2, 3])
-print(c)
+x = [1, 2,3 , 4, 5]
+print(x.index(1))

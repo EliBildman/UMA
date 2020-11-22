@@ -9,6 +9,10 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 from sklearn.feature_extraction import DictVectorizer
 
+
+
+
+
 tokenizer = RegexpTokenizer('(?=\S*[\'-])*([a-zA-Z\'-]+)')
 vectorizer = DictVectorizer(sparse=False)
 log_reg = LogisticRegression()
@@ -27,11 +31,11 @@ def read_all_annotations(filename):
             annotations.append(read_annotation(datum))
     return annotations
 
-def presence_array(ts):
-    p_array = []
-    for word in feature_words:
-        p_array.append( 1 if word in ts else 0 )
-    return p_array
+# def presence_array(ts):
+#     p_array = []
+#     for word in feature_words:
+#         p_array.append( 1 if word in ts else 0 )
+#     return p_array
 
 def dict_vector_data(annos):
     x = vectorizer.fit_transform(list( anno['bag'] for anno in annos ))
@@ -78,5 +82,4 @@ def print_top(n):
 
 if __name__ == '__main__':
     train_test_model('annotations.json')
-    print_top(10)
 
